@@ -1,1 +1,0 @@
-# qr-python3-webapp
